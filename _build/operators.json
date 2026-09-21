@@ -174,7 +174,6 @@
     "rating": 3.8,
     "usp": "The biggest headline bonus on this site, but the licence is not published.",
     "logo": "/logos/svg/madcasino.svg",
-    "welcomeEur": "Casino €7,500 / Sports €3,500 — converted at ~1.96 NZD per EUR",
     "welcomeSlots": "777% total up to NZ$14,500",
     "welcomeSports": "250% total up to NZ$6,800"
   },
@@ -200,8 +199,7 @@
     "usp": "Crypto withdrawals clear in two to four hours with no operator fee — the fastest we logged.",
     "logo": "/logos/svg/kingdom.svg",
     "welcomeSlots": "600% total up to NZ$18,500",
-    "welcomeSports": "200% up to NZ$1,900",
-    "welcomeEur": "Casino €9,500 / Sports €1,000 — converted at ~1.96 NZD per EUR"
+    "welcomeSports": "200% up to NZ$1,900"
   },
   "smash": {
     "name": "Smash Casino",
@@ -225,8 +223,7 @@
     "usp": "10x wagering is far below the 35–40x norm, so this bonus is genuinely clearable.",
     "logo": "/logos/svg/smash.svg",
     "welcomeSlots": "600% total up to NZ$19,500",
-    "welcomeSports": "250% up to NZ$9,800",
-    "welcomeEur": "Casino €10,000 / Sports €5,000 — converted at ~1.96 NZD per EUR"
+    "welcomeSports": "250% up to NZ$9,800"
   },
   "rivo": {
     "name": "Rivo Casino",
@@ -250,8 +247,7 @@
     "usp": "25% VIP cashback and 10x wagering, though KYC is strict — verify early.",
     "logo": "/logos/svg/rivo.svg",
     "welcomeSlots": "1000% total up to NZ$19,500",
-    "welcomeSports": "100% up to NZ$950",
-    "welcomeEur": "Casino €10,000 / Sports €500 — converted at ~1.96 NZD per EUR"
+    "welcomeSports": "100% up to NZ$950"
   },
   "roby": {
     "name": "Roby Casino",

@@ -38,7 +38,7 @@ COPY = {
   body="""<h2>Built around getting paid</h2>
 <p>Kingdom holds a Curaçao eGaming licence and runs a 7,000+ game catalogue alongside a fully integrated sportsbook. What sets it apart is the cashier. Crypto withdrawals were completing in two to four hours in our testing, against an industry median closer to a full day, and Kingdom charges nothing of its own on crypto in either direction. For a player who cashes out weekly rather than annually, that compounds into a materially better experience.</p>
 <h2>A big bonus, and the multiple that governs it</h2>
-<p>Kingdom's welcome package runs to <strong>600% total, up to NZ$18,500</strong> on the casino side (&euro;9,500) and <strong>200% up to NZ$1,900</strong> on sports (&euro;1,000). That puts the casino offer among the three largest we list. Both are <em>total</em> figures spread across a deposit sequence, not paid on the first deposit.</p>
+<p>Kingdom's welcome package runs to <strong>600% total, up to NZ$18,500</strong> on the casino side and <strong>200% up to NZ$1,900</strong> on sports. That puts the casino offer among the three largest we list. Both are <em>total</em> figures spread across a deposit sequence, not paid on the first deposit.</p>
 <p>Then read the wagering line, because it changes the picture: <strong>30x</strong>. Better than the 40x industry norm, but on a package this size the turnover is substantial — a NZ$5,000 bonus at 30x is NZ$150,000 through the games. Set that against <a href="/casino-reviews/smash/">Smash's 10x</a> on a similar headline and the gap in what you can realistically clear is enormous. Our <a href="/online-casinos/bonuses/">bonuses guide</a> runs the arithmetic.</p>
 <p>The more dependable value here is the weekly calendar: Royal Monday at 100% up to NZ$1,000, Kingly Wednesday at 150%, Regal Friday at 200%, and a Tuesday Boost on sports at 100% up to NZ$1,000 with 15x wagering. Each carries its own terms, so read them individually — but for a player who deposits weekly, those reloads are worth more over a year than the welcome hook.</p>
 <h2>The sportsbook</h2>
@@ -61,7 +61,7 @@ COPY = {
 "smash": dict(order=340, author="maia", tag="Lowest wagering requirement on this site",
   verdict="Smash asks 10x on deposit plus bonus where the market asks 35x to 40x on bonus. That single number makes its 600% total up to NZ$19,500 casino package — plus 250% up to NZ$9,800 on sports — the most clearable big offer we found. The trade-off is transparency: an Anjouan licence, less publicly documented than Curaçao, and licensing details that are not easy to find on site.",
   body="""<h2>Read the wagering line first</h2>
-<p>Smash headlines with <strong>600% total up to NZ$19,500</strong> on the casino side (&euro;10,000) and <strong>250% up to NZ$9,800</strong> on sports (&euro;5,000), which reads like noise until you check the requirement: <strong>10x on deposit plus bonus</strong>. Run the numbers on a NZ$100 deposit matched to NZ$600 and you need NZ$7,000 of turnover. The same money at a 40x-on-bonus site needs NZ$24,000. That is the difference between a bonus you might genuinely clear and one that exists to look large in an advertisement.</p>
+<p>Smash headlines with <strong>600% total up to NZ$19,500</strong> on the casino side and <strong>250% up to NZ$9,800</strong> on sports, which reads like noise until you check the requirement: <strong>10x on deposit plus bonus</strong>. Run the numbers on a NZ$100 deposit matched to NZ$600 and you need NZ$7,000 of turnover. The same money at a 40x-on-bonus site needs NZ$24,000. That is the difference between a bonus you might genuinely clear and one that exists to look large in an advertisement.</p>
 <p>The sportsbook side follows the same logic — 250% up to NZ$9,800 at 15x turnover, where 30x to 40x is the usual ask. That is the largest sports welcome offer on this site by a wide margin.</p>
 <h2>Games and sport</h2>
 <p>Over 40 providers supply the casino, covering pokies, live dealer studios and jackpots. The integrated sportsbook covers more than 30 sports with pre-match and live betting, and its esports range — Dota 2, Call of Duty, Counter-Strike — is the deepest here alongside <a href="/casino-reviews/kingdom/">Kingdom</a>.</p>
@@ -112,8 +112,8 @@ COPY = {
 "rivo": dict(order=380, author="rawiri", tag="Biggest bonus ladder, 10x wagering",
   verdict="Rivo runs the highest match percentage on this site — 1000% total up to NZ$19,500 on the casino side — at an unusually low 10x wagering, with 25% VIP cashback on top. The sports offer is far smaller at 100% up to NZ$950. The offsetting factors are strict KYC that players report as demanding, and limited transparency about the operator behind the brand.",
   body="""<h2>The ladder</h2>
-<p><strong>1000% total up to NZ$19,500</strong> on the casino side (&euro;10,000) at <strong>10x wagering</strong> — the highest match percentage we list, on terms that are actually clearable. That puts Rivo alongside <a href="/casino-reviews/smash/">Smash</a> as one of only two sites here pairing a large headline with a low multiple. It is a tiered package, so you step off at whichever rung suits you; the headline is an upper bound, not a commitment.</p>
-<p>The sportsbook offer is a different proposition entirely: <strong>100% up to NZ$950</strong> (&euro;500). If you came for sports, <a href="/casino-reviews/smash/">Smash's 250% up to NZ$9,800</a> or <a href="/casino-reviews/rooster-bet/">Rooster Bet</a> will serve you better.</p>
+<p><strong>1000% total up to NZ$19,500</strong> on the casino side at <strong>10x wagering</strong> — the highest match percentage we list, on terms that are actually clearable. That puts Rivo alongside <a href="/casino-reviews/smash/">Smash</a> as one of only two sites here pairing a large headline with a low multiple. It is a tiered package, so you step off at whichever rung suits you; the headline is an upper bound, not a commitment.</p>
+<p>The sportsbook offer is a different proposition entirely: <strong>100% up to NZ$950</strong>. If you came for sports, <a href="/casino-reviews/smash/">Smash's 250% up to NZ$9,800</a> or <a href="/casino-reviews/rooster-bet/">Rooster Bet</a> will serve you better.</p>
 <p>The 25% VIP cashback is the largest on our list. Cashback matters more than most players realise: it converts a portion of losses back into playable or withdrawable value on every session, not just at sign-up.</p>
 <h2>Games and sport</h2>
 <p>More than 4,000 titles plus an integrated sportsbook, with fast e-wallet and crypto payouts. It is a smaller catalogue than the 8,000-title sites, but the studio mix covers the mainstream comfortably.</p>
@@ -200,11 +200,11 @@ COPY = {
   body="""<h2>The welcome package</h2>
 <p>MadCasino splits its welcome offer across two products, and both are unusually large by the standards of this market.</p>
 <div class="table-scroll"><table class="data">
-<caption>MadCasino welcome offer, converted to New Zealand dollars at approximately 1.96 NZD per EUR.</caption>
-<thead><tr><th scope="col">Product</th><th scope="col">Total offer (NZD)</th><th scope="col">Operator’s stated figure</th></tr></thead>
+<caption>MadCasino welcome offer, in New Zealand dollars.</caption>
+<thead><tr><th scope="col">Product</th><th scope="col">Total offer (NZD)</th></tr></thead>
 <tbody>
-<tr><th scope="row">Casino / pokies</th><td><strong>777% total up to NZ$14,500</strong></td><td>777% up to &euro;7,500</td></tr>
-<tr><th scope="row">Sportsbook</th><td><strong>250% up to NZ$6,800</strong></td><td>250% up to &euro;3,500</td></tr>
+<tr><th scope="row">Casino / pokies</th><td><strong>777% total up to NZ$14,500</strong></td></tr>
+<tr><th scope="row">Sportsbook</th><td><strong>250% up to NZ$6,800</strong></td></tr>
 </tbody></table></div>
 <p>Both are <em>total</em> figures, meaning the percentage and the cap are spread across a sequence of deposits rather than paid on the first one. A 777% headline never lands in a single hit — expect it tiered across four or five deposits, with the largest multiplier usually attached to the smallest cap.</p>
 <div class="callout note"><span class="t">These are converted figures</span>
